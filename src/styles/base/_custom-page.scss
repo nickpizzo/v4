@@ -1,5 +1,8 @@
 #nav {
   ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     li {
       div {
         transition: font-size 0.2s ease;
